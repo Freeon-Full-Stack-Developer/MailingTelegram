@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <header>
+      <div class="header-container">
+        <div class="avatar">
+          <img src="https://sun9-38.userapi.com/impg/DgPgwhhysMkkOj5e5TYZuqSllmTy0DFnn_T23A/17WWQzuSJJw.jpg?size=1200x675&quality=95&sign=6d67e16924fb68103f2a614868ce156a&type=album" alt="Avatar">
+        </div>
+        <div class="title">
+          <h1>Mailing Telegram</h1>
+        </div>
+        <div class="nav-button">
+          <a href="https://vk.com/full__stack__developer" target="_blank">
+            <button>Developer’s VKontakte</button>
+          </a>
+        </div>
+      </div>
+    </header>
+    <title>App</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+  </head>
+  <body>
+    <div class="container">
+      <form action="" method="post">
+        <div class="row">
+          <div class="col-6">
+            <h2>Token:</h2>
+            <input type="text" id="token" name="token" placeholder="Enter your Telegram token bot" class="form-control">
+          </div>
+        </div>
+        <div class="row">
+          <div class="col-6">
+            <h2>Text message:</h2>
+              <textarea id="text" name="text" placeholder="Enter your message..." class="form-control" rows="10" style="resize: none;"></textarea>
+
+          </div>
+          <div class="col-4">
+            <h2>Path File:</h2>
+              <input type="text" id="path_file" placeholder="Enter path your file .xlsx" name="path_file" class="form-control">
+          </div>
+
+        </div>
+        <div class="row">
+          <div class="col-12">
+            <button type="submit" class="btn btn-primary">Send</button>
+          </div>
+        </div>
+      </form>
+    </div>
+  </body>
+</html>
