@@ -35,7 +35,7 @@ Each ID is written in a new cell in this column.
 Launch
 Download the archive and unzip it.
 
-Open the "Appl" folder and run the file "App.exe".
+Open the "App" folder and run the file "App.exe".
 
 Your browser will automatically open the site with the\interface. Follow the instructions above to fill in all the required\fields.
 
