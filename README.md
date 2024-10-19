@@ -1,7 +1,9 @@
 The program I want to tell you about allows you to send messages to any Telegram user, regardless of their profile settings. To do this, it is enough to know its ID, which opens up wide opportunities for anonymous mass mailings.
-
 Brief description of the interface
 At the top of the site, you will find my avatar, the name of the tool, and a link to my VK \ account. Now let's take a closer look at the\input fields. I will list them from top to bottom:
+
+![image](https://github.com/user-attachments/assets/d0a5b2ca-5dc0-4518-9e19-1ab78c891a6f)
+
 
 Token field:
 
