@@ -3,7 +3,7 @@ The program I want to tell you about allows you to send messages to any Telegram
 Brief description of the interface
 At the top of the site, you will find my avatar, the name of the tool, and a link to my VK \ account. Now let's take a closer look at the\input fields. I will list them from top to bottom:
 
-** Token field:**
+Token field:
 
 In this field, enter the token of your Telegram bot that you will use to send messages.
 
@@ -24,7 +24,7 @@ If you have an array of IDs (id), you can't just write them to the \ file. To si
 
 
 
-** Rules for placing IDs:**
+Rules for placing IDs:
 
 The first column must have the name "ID".
 
